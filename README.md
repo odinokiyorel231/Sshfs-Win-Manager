@@ -192,4 +192,4 @@ This repository serves as the official landing page for SSHFS-Win Manager. The s
 **Get the most recent version of SSHFS-Win Manager today!**
 
 ---
-**Last updated:** 2026-11-10 22:50:30 UTC
+**Last updated:** 2026-11-11 02:31:52 UTC
